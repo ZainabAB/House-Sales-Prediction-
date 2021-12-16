@@ -43,8 +43,14 @@ The goal of this statistical analysis is to help us understand the relationship 
 People interested in home prices and real estate owners
 
 # Objective
+
 Predict the house price
 Using the the linear regression for predicted and actual rating
+
+## Machine learning Algorithm
+
+Linear Regression LR Algorithm
+
 
 
 ### To contact  : Zainab Abdullah 
