@@ -32,7 +32,7 @@ long - Longitude
 sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
-# Data used : https://www.kaggle.com/harlfoxem/housesalesprediction
+## Data used : https://www.kaggle.com/harlfoxem/housesalesprediction
 
 # Problem Statement
 
@@ -47,5 +47,5 @@ Predict the house price
 Using the the linear regression for predicted and actual rating
 
 
-# To contact  : Zainab Abdullah 
-# bohulaigh@gmail.com
+### To contact  : Zainab Abdullah 
+### bohulaigh@gmail.com
