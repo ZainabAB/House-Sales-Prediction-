@@ -45,3 +45,7 @@ People interested in home prices and real estate owners
 # Objective
 Predict the house price
 Using the the linear regression for predicted and actual rating
+
+
+# To contact  : Zainab Abdullah 
+# bohulaigh@gmail.com
